@@ -1,5 +1,18 @@
 # Flight Delay Analysis 💥
 ---
+
+## Table of Contents:-
+
+ - [PowerBi Dahboard Screenshot](#powerbi-dashboard-screenshot) 📷
+ - [Power Bi Flight Delay Analysis Data Model Screenshot](#Power-Bi-Flight-Delay-Analysis-Data-Model-Screenshot) 📷
+ - [Project Overview](#project-overview) 🧑‍💻
+ - [Data Sources](#data-sources) 📁
+ - [Problem Statement](#problem-statement) ❓
+ - [Tools](#Tools) 🛠️
+ - [Data CLeaning](#data-cleaning) 🔨 
+ - [Results](#results)  :suspect:
+ - [Project Files Location Links](#project-files-location-links)  📂
+---
 ## Power Bi Dashboard Screenshot
 ![flight_delay](https://github.com/shabbar88/Aviation_Project/assets/68353026/91c71732-b557-4dcc-a950-ea30a0d9fc5a)
 
