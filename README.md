@@ -3,7 +3,7 @@
 
 ## Table of Contents:-
 
- - [PowerBi Dahboard Screenshot](#powerbi-dashboard-screenshot) 📷
+ - [PowerBi Dashboard Screenshot](#power-bi-dashboard-screenshot) 📷
  - [Power Bi Flight Delay Analysis Data Model Screenshot](#Power-Bi-Flight-Delay-Analysis-Data-Model-Screenshot) 📷
  - [Project Overview](#project-overview) 🧑‍💻
  - [Data Sources](#data-sources) 📁
