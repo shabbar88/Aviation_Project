@@ -32,7 +32,7 @@ Primary Dataset used for this project Analysis is airlines, airports, flights  d
 [Aviation Data](https://drive.google.com/file/d/1y89Tm0Pa5b1W3SF1pGfQtObGphxR4Sa6/view?usp=drive_link)
 
 ---
-## ** Problem Statement**
+## **Problem Statement**
   * 1> Weekday Vs Weekend total flights statistics
 
   * 2> Total number of cancelled flights for JetBlue Airways on first date of every month
