@@ -14,7 +14,8 @@
  - [Project Files Location Links](#project-files-location-links)  📂
 ---
 ## Power Bi Dashboard Screenshot
-![flight_delay](https://github.com/shabbar88/Aviation_Project/assets/68353026/91c71732-b557-4dcc-a950-ea30a0d9fc5a)
+![aviation_latest](https://github.com/shabbar88/Aviation_Project/assets/68353026/76884d64-019f-40a1-8335-e2fae531d4ae)
+
 
 ---
 ## Power Bi Flight Delay Analysis Data Model Screenshot
